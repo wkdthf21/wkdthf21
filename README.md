@@ -1,0 +1,1 @@
+[![LeetCode user wkdthf21](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fwkdthf21&logo=leetcode&logoColor=yellow)](https://leetcode.com/wkdthf21/)
