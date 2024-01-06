@@ -1,6 +1,6 @@
 <div align=center>	
   
-### ✨ Tech Stack ✨
+## ✨ Tech Stack ✨
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-### :rocket: LeetCode :rocket:
+## :rocket: LeetCode :rocket:
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-### 🔥 Hits 🔥
+## 🔥 Hits 🔥
 
 <br/>
 
